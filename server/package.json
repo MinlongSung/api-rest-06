@@ -1,0 +1,15 @@
+{
+  "name": "character-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "character API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Lemoncode",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
